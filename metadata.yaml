@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/98
     wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
 description: 'Translation of: The Dead Alive'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19372#John-Jagon-henki-tahi-kuollutko-vai-el-v--
 gutenberg_issued: '2006-09-25'
 gutenberg_type: Text
 identifiers:
